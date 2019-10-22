@@ -20,7 +20,7 @@ Once you are done, please share with us:
 
 # Specs
 
-* UI Designs specs. [Click here](https://invis.io/26UEIETGDRT)
+* UI Designs specs. [Click here](https://invis.io/2WUEIMANKES)
 
 # Need Help?
 
