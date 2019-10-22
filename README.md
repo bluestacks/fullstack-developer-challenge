@@ -11,6 +11,7 @@ the top apps page.
 * You can show things like app name, package, icon, developer name, videos, screenshots etc.
 * The landing page and the detail page should be on different urls on the same domain. For example, www.yourwebsite.com/ and www.yourwebsite.com/appdetails?pkg=com.whatsapp
 * User should also be able to directly enter a url with app package and the website should show the details for that app package. For example - I should be able enter this url in the browser - www.yourwebsite.com/appdetails?pkg=com.supercell.brawlstars , and all the information regarding this app should be displayed on the page.
+* Creating the UI in Frameworks like **AngularJs,ReactJs,VueJs** will earn you extra points.
 
 
 Once you are done, please share with us:
@@ -19,6 +20,11 @@ Once you are done, please share with us:
 
 # Specs
 
+* UI Designs specs. [Click here](https://invis.io/26UEIETGDRT)
+
 # Need Help?
 
 * How to create Repo in GitHub? [Click here](https://guides.github.com/activities/hello-world/) 
+* How to deploy Python App online? [Click here](https://devcenter.heroku.com/articles/getting-started-with-python)
+* How to deploy NodeJs App online? [Click here]( https://devcenter.heroku.com/articles/getting-started-with-nodejs)
+* How to host your UI/HTML code online? [Click here](https://gist.github.com/TylerFisher/6127328) or [Click here](https://pages.github.com/)
