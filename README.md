@@ -19,7 +19,7 @@ Once you are done, please share with us:
 
 # Specs
 
-* UI Designs specs. [Click here](https://invis.io/2WUEIMANKES)
+* UI Designs specs. [Click here](https://www.figma.com/file/Sy6FoaQg8HSDUUepRPRUGs/Full-Stack?node-id=0%3A60)
 
 # Need Help?
 
